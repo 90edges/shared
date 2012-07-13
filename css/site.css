@@ -1227,7 +1227,7 @@ BA-END*/
 #header {
   height: 90px;
   background-color: #f7f7f7;
-  background: transparent url("logoright.png") 0px 0px;
+  background: transparent url("/shared/img/logoright.png") 0px 0px;
   clear: both;
   border-bottom: 1px solid #e1e1e1;
   -webkit-box-shadow: 0px 1px 5px #dadada;
@@ -1253,7 +1253,7 @@ BA-END*/
 BA-END*/
 /*NE-BEGIN*/
 #header .header .header-logo {
-  background: transparent url("assets.png") no-repeat 0px 0px !important;
+  background: transparent url("/shared/img/assets.png") no-repeat 0px 0px !important;
   width: 253px;
   height: 90px;
   display: block;
